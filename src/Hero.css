@@ -1,0 +1,32 @@
+.hero-section {
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .hero-section h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-section p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-section button {
+    font-size: 18px;
+    color: white;
+    background-color: #ff8c00; /* This vibrant color stands out for the CTA */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .hero-section button:hover {
+    background-color: #e07c00;
+  }
+  

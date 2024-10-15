@@ -1,0 +1,16 @@
+/* Landing Page specific styles */
+.landing-page-body {
+    background: linear-gradient(135deg, #252525 0%, #444444 100%);
+    color: white;
+  }
+  
+  .landing-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background: transparent;
+  }
+  
+  /* Further styles... */
+  
